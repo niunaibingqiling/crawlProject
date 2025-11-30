@@ -5,3 +5,4 @@ Git is free software distributed under the GPL.
 第二次在dev分支操作
 这是在master分支上的操作
 这是分支feature1的操作
+这是分支dev 禁止fast-forward模式

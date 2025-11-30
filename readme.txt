@@ -7,3 +7,4 @@ Git is free software distributed under the GPL.
 这是分支feature1的操作
 这是分支dev 禁止fast-forward模式
 这是分支dev 使用fast-forward模式
+修复bug
